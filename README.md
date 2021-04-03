@@ -1,5 +1,9 @@
 # CyberDoggo
 
+A simple base64 conversor.
+
+<img src="src/assets/img/doggo.png" alt="DoggoIcon" style="width:50%" />
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
 
 ## Development server
