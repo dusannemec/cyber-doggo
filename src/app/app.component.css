@@ -1,0 +1,45 @@
+body {
+  background-color: #121212;
+}
+
+.titulo {
+  font-size: 5em;
+  color: #f0f0f0;
+  font-family: Oleo Script;
+}
+
+.sub-titulo {
+  color: #f0f0f0;
+  font-family: Roboto;
+}
+
+.texto-conversor {
+  background-color: #1F1A24;
+  color: #f0f0f0;
+  width: 80%;
+  height: 100%;
+  border-radius: 20px;
+  border: none;
+  padding: 2em;
+  resize: none;
+}
+
+.btn-doggo {
+  width:85%;
+  border-radius: 13px;
+  background-color: #BB86FC;
+  border:none;
+}
+
+.btn-doggo:hover {
+  background-color: #9666cf !important;
+}
+
+.btn-doggo:active {
+  background-color: #BB86FC  !important;
+  border: none i !important;
+}
+
+.btn-primary:focus  {
+  background-color: #9666cf !important;
+}
